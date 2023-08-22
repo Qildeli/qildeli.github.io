@@ -1,2 +1,1 @@
-# qildeli.github.io
-qildeli.github.io/resume
+### [Ana Khutsishvili Resume](https://qildeli.github.io/resume.pdf)
